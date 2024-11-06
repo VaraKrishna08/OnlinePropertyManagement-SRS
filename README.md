@@ -1,2 +1,2 @@
 # OnlinePropertySelling-SRS
-Software Requirements Specification (SRS) for an Online Property Management System project for Software Engineering
+Software Requirements Specification (SRS) for an Online Property Selling System project for Software Engineering
